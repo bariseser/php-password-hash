@@ -2,11 +2,11 @@
 
 Password Hash Manager provides secure Bcrypt, Argon2i (PHP>=7.2) or Argon2id (PHP>=7.3) hashing for storing user passwords or etc.
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/bariseser/php-password-hash/issues)
-[![Latest Stable Version](https://poser.pugx.org/bariseser/hashmanager/v/stable)](https://packagist.org/packages/bariseser/hashmanager)
-[![Total Downloads](https://poser.pugx.org/bariseser/hashmanager/downloads)](https://packagist.org/packages/bariseser/hashmanager)
-[![License](https://poser.pugx.org/bariseser/hashmanager/license)](https://packagist.org/packages/bariseser/hashmanager)
-[![Build Status](https://travis-ci.org/bariseser/php-password-hash.svg?branch=master)](https://travis-ci.org/bariseser/php-password-hash)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/bariseser/password-hash/issues)
+[![Latest Stable Version](https://poser.pugx.org/bariseser/password-hash/v/stable)](https://packagist.org/packages/bariseser/password-hash)
+[![Total Downloads](https://poser.pugx.org/bariseser/password-hash/downloads)](https://packagist.org/packages/bariseser/password-hash)
+[![License](https://poser.pugx.org/bariseser/password-hash/license)](https://packagist.org/packages/bariseser/password-hash)
+[![Build Status](https://travis-ci.org/bariseser/password-hash.svg?branch=master)](https://travis-ci.org/bariseser/password-hash)
 
 ## Requirement
 
