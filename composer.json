@@ -1,0 +1,24 @@
+{
+    "name": "bariseser/password-hash",
+    "description": "PHP hash manager for password hashing.",
+    "keywords": ["php", "hashing", "package","bariseser", "password hash", "hash", "encrypt", "decrypt", "Bcrypt", "Argon2", "Argon2id"],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "authors": [
+        {
+            "name": "Baris Eser",
+            "email":"bariseser@gmail.com",
+            "homepage": "https://github.com/bariseser"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bariseser\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    }
+}
