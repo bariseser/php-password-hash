@@ -1,5 +1,5 @@
 {
-    "name": "bariseser/password-hash",
+    "name": "bariseser/hashmanager",
     "description": "PHP hash manager for password hashing.",
     "keywords": ["php", "hashing", "package","bariseser", "password hash", "hash", "encrypt", "decrypt", "Bcrypt", "Argon2", "Argon2id"],
     "license": "MIT",
